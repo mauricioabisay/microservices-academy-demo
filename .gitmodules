@@ -1,0 +1,3 @@
+[submodule "microservices-academy-demo-account-profile"]
+	path = microservices-academy-demo-account-profile
+	url = git@github.com:mauricioabisay/microservices-academy-demo-account-profile.git
